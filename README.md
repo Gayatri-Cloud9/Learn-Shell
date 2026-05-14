@@ -1,3 +1,7 @@
 # Learn-Shell
 
-Bash Shell
+Bash Shell Scripting
+
+Shell Scripting learning
+
+Bash ANd Shell
